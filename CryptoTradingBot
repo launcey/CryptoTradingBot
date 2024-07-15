@@ -1,0 +1,28 @@
+# CryptoTradingBot
+
+## Overview
+
+CryptoTradingBot is an automated trading bot for cryptocurrency markets. This project allows users to automate their trading strategies and execute trades on supported cryptocurrency exchanges.
+
+## Features
+
+- **Exchange Integration**: Connect with popular cryptocurrency exchanges via API (e.g., Binance, Coinbase Pro).
+- **Trading Strategies**: Implement custom trading strategies based on technical indicators, market signals, or user-defined rules.
+- **Backtesting**: Test trading strategies against historical data to evaluate performance.
+- **Real-time Trading**: Execute trades in real-time based on predefined conditions.
+- **Portfolio Management**: Monitor and manage cryptocurrency holdings and trading activities.
+- **Security**: Implement security best practices to safeguard API keys and user data.
+
+## Getting Started
+
+### Prerequisites
+
+- Python (version 3.6 or higher)
+- Pip (Python package installer)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/CryptoTradingBot.git
+   cd CryptoTradingBot
